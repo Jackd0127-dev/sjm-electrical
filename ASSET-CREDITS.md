@@ -40,4 +40,4 @@ They were resized, muted, trimmed, and combined into the web-optimised
 
 ## Typography
 
-The existing locally bundled PP Neue Montreal files were retained from the approved Signal Grid source project and moved to `public/assets/fonts/`. No remote font request is made.
+The locally bundled PP Neue Montreal files are retained from the approved Signal Grid source project. Runtime styles load `src/assets/fonts/`; matching copies remain in `public/assets/fonts/`. No remote font request is made.
